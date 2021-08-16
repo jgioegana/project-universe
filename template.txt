@@ -1,0 +1,34 @@
+# project-universe
+Create a scrollable dimension that showcases your different projects.
+
+# Demo
+Check the demo: <link>
+
+Check my website: https://gioreyes.me/
+
+# Prerequisites
+Download [jQuery](https://jquery.com/download/).
+
+# How to update
+All images for the project must be the same image size.
+
+**Project Array (projArray):** na.
+
+
+
+----
+
+TEMPLATE:
+# <title>
+<description>
+
+# Demo
+Check the demo: <link>
+
+Check my website: https://gioreyes.me/
+
+# Prerequisites
+Download [<library_name>](<library_link>).
+
+# How to update
+**<itemName> (<varName>):** <description>.
