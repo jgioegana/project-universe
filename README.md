@@ -1,7 +1,7 @@
 # project-universe
 Create a scrollable 3D dimension that showcases your different projects, in the form of planets.
 
-Disclaimer: This effect is better suited in desktop/laptop viewports. May need a little bit of tweaking when implementing in mobile.
+Disclaimer: This effect is intended for desktop/laptop viewports. May need a little bit of tweaking when implementing in mobile.
 
 # Demo
 Check the demo: https://project-universe.gioreyes.me
