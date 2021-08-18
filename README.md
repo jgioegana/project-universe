@@ -4,7 +4,7 @@ Create a scrollable 3D dimension that showcases your different projects, in the 
 Disclaimer: This effect is better suited in desktop/laptop viewports. May need a little bit of tweaking when implementing in mobile.
 
 # Demo
-Check the demo: <link>
+Check the demo: https://project-universe.gioreyes.me
 
 Check my website: https://gioreyes.me/
 
