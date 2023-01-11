@@ -6,8 +6,6 @@ Disclaimer: This effect is intended for desktop/laptop viewports. May need a lit
 # Demo
 Check the demo: https://codepen.io/jgioegana/pen/mdXGKyv
 
-Check my website: https://gioreyes.me/
-
 # Prerequisites
 Download [jQuery](https://jquery.com/download/).
 
